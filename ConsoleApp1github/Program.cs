@@ -10,16 +10,16 @@ namespace ConsoleApp1github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Wold from C# App! 01");
-            Console.WriteLine("Hello, Wold from C# App! 02");
-            Console.WriteLine("Hello, Wold from C# App! 03");
+            Console.WriteLine("Hello, Wold from C# App! 01 ... 10");
+            Console.WriteLine("Hello, Wold from C# App! 02 ... 11");
+            Console.WriteLine("Hello, Wold from C# App! 03 ... 12");
             Console.WriteLine("Hello, Wold from C# App! 04");
             Console.WriteLine("Hello, Wold from C# App! 05");
             Console.WriteLine("Hello, Wold from C# App! 06");
             Console.WriteLine("Hello, Wold from C# App! 07");
-            Console.WriteLine("Hello, Wold from C# App! 08");
-            Console.WriteLine("Hello, Wold from C# App! 09");
-            Console.WriteLine("Hello, Wold from C# App! 010");
+            Console.WriteLine("Hello, Wold from C# App! 08 ... 10");
+            Console.WriteLine("Hello, Wold from C# App! 09 ... 11");
+            Console.WriteLine("Hello, Wold from C# App! 010 ... 12");
             Console.WriteLine("Hello, Wold from C# App! 011");
             Console.WriteLine("Hello, Wold from C# App! 012");
             Console.WriteLine("Hello, Wold from C# App! 013");
