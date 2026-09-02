@@ -38,7 +38,7 @@ namespace ConsoleApp1github
             Console.WriteLine("Hello, Wold from C# App! 022");
             Console.WriteLine("Hello, Wold from C# App! 023");
             Console.WriteLine("Hello, Wold from C# App! 024");
-            Console.WriteLine("Hello, Wold from C# App! 025");
+            Console.WriteLine("Hello, Wold from C# App! 025 zzzzzzzzzzzzzzzzzz");
             Console.WriteLine("Hello, Wold from C# App! 026");
             Console.WriteLine("Hello, Wold from C# App! 027");
             Console.WriteLine("Hello, Wold from C# App! 028");
@@ -58,7 +58,7 @@ namespace ConsoleApp1github
            
             Console.WriteLine("Hello, Wold from C# App! 041");
             Console.WriteLine("Hello, Wold from C# App! 042");
-            Console.WriteLine("Hello, Wold from C# App! 043 yyyyyyyyyyy");
+            Console.WriteLine("Hello, Wold from C# App! 043 zzzzzzzzzzzzzzz");
         }
     }
 }
