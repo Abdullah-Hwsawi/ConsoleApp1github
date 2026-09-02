@@ -10,7 +10,9 @@ namespace ConsoleApp1github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Wold from C# App!");
+            Console.WriteLine("Hello, Wold from C# App! 1");
+            Console.WriteLine("Hello, Wold from C# App! 2");
+            Console.WriteLine("Hello, Wold from C# App! 3");
         }
     }
 }
