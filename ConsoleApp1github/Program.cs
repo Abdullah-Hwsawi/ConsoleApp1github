@@ -14,6 +14,10 @@ namespace ConsoleApp1github
             Console.WriteLine("Hello, Wold from C# App! 02");
             Console.WriteLine("Hello, Wold from C# App! 03 ........");
             Console.WriteLine("Hello, Wold from C# App! 04 ........");
+            Console.WriteLine("Hello, Wold from C# App! 01 ... 10");
+            Console.WriteLine("Hello, Wold from C# App! 02 ... 11");
+            Console.WriteLine("Hello, Wold from C# App! 03 ... 12");
+            Console.WriteLine("Hello, Wold from C# App! 04");
             Console.WriteLine("Hello, Wold from C# App! 05");
             Console.WriteLine("Hello, Wold from C# App! 06");
             Console.WriteLine("Hello, Wold from C# App! 07");
