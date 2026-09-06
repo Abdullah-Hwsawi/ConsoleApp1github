@@ -61,7 +61,7 @@ namespace ConsoleApp1github
             Console.WriteLine("Hello, Wold from C# App! 043 zzzzzzzzzzzzzzz");
 
 
-            Console.WriteLine("Hello, Wold from C# App! Me");
+            Console.WriteLine("Hello, Wold from C# App! you");
         }
     }
 }
