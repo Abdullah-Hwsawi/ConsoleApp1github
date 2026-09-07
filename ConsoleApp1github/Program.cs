@@ -68,6 +68,8 @@ namespace ConsoleApp1github
 
              Console.WriteLine("Nationality");
              Console.WriteLine("PlaceOfBirth");
+             Console.WriteLine("I'm in Student");
+
         }
 
     }
