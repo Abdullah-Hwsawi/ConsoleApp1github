@@ -70,7 +70,7 @@ namespace ConsoleApp1github
              Console.WriteLine("PlaceOfBirth");
              Console.WriteLine("I'm in Student");
              Console.WriteLine("I'm in Programmer");
-             Console.WriteLine("Calculat My Age");
+             Console.WriteLine("sssssss");
 
 
         }
